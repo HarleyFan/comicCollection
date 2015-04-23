@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Harley Quinn New 52</series>
+    <number>15</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>1</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Harley Quinn New 52</series>
+    <number>13</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>2</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Harley Quinn New 52</series>
+    <number>16</number>
+	<price>15.00</price>
+    <printing/>
+    <varSpec>Left side variant</varSpec>
+    <boxNum>4</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Harley Quinn New 52</series>
+    <number>16</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec>Movie cover variant</varSpec>
+    <boxNum>5</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Superman</series>
+    <number>39</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec>Harley Quinn Variant</varSpec>
+    <boxNum>6</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Teen Titans</series>
+    <number>7</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec>Harley Quinn Variant</varSpec>
+    <boxNum>7</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Superman Wonder Woman</series>
+    <number>16</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec>Harley Quinn Variant</varSpec>
+    <boxNum>9</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Action Comics</series>
+    <number>39</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec>Harley Quinn Variant</varSpec>
+    <boxNum>10</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Action Comics</series>
+    <number>40</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec>Movie Cover Variant</varSpec>
+    <boxNum>11</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Deathstroke</series>
+    <number>6</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>13</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Suicide Squad</series>
+    <number>8</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>15</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Convergence</series>
+    <number>0</number>
+	<price>4.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>16</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>3</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>17</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>4</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>18</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>5</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>19</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>6</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>20</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>7</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>21</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>8</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>22</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>9</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>23</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>10</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>24</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>11</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>25</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>12</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum/>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Deadpool Dracula’s Gauntlet</series>
+    <number>13</number>
+	<price>3.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>26</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>1</number>
+	<price>2.99</price>
+    <printing>4th</printing>
+    <varSpec/>
+    <boxNum>27</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>0</number>
+	<price>4.99</price>
+    <printing>2nd</printing>
+    <varSpec>Director’s Cut</varSpec>
+    <boxNum>28</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>3</number>
+	<price>2.99</price>
+    <printing>3rd</printing>
+    <varSpec/>
+    <boxNum>29</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>4</number>
+	<price>2.99</price>
+    <printing>1st</printing>
+    <varSpec/>
+    <boxNum>30</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>4</number>
+	<price>2.99</price>
+    <printing>2nd</printing>
+    <varSpec/>
+    <boxNum>31</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>5</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>32</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>7</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>33</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>8</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec>75th Anniversary Variant</varSpec>
+    <boxNum>34</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>10</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>35</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>12</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>36</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>12</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec>Lego Variant</varSpec>
+    <boxNum>37</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number>13</number>
+	<price>2.99</price>
+    <printing/>
+    <varSpec>Cooke Variant</varSpec>
+    <boxNum>38</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number/>
+	<price>4.99</price>
+    <printing/>
+    <varSpec>Invades Comic Con</varSpec>
+    <boxNum>39</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number/>
+	<price>5.99</price>
+    <printing/>
+    <varSpec>Annual</varSpec>
+    <boxNum>40</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number/>
+	<price>2.99</price>
+    <printing/>
+    <varSpec>Future’s End</varSpec>
+    <boxNum>41</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number/>
+	<price>4.99</price>
+    <printing/>
+    <varSpec>Holiday Special, New Year’s Eve variant</varSpec>
+    <boxNum>42</boxNum>
+  </comic>
+  <comic>
+    <store>Third Eye Comics</store>
+    <series>Harley Quinn New 52</series>
+    <number/>
+	<price>4.99</price>
+    <printing/>
+    <varSpec>Holiday Special</varSpec>
+    <boxNum>43</boxNum>
+  </comic>
+  <comic>
+    <store>The Comic Shop</store>
+    <series>Convergence</series>
+    <number>1</number>
+	<price>4.99</price>
+    <printing/>
+    <varSpec/>
+    <boxNum>44</boxNum>
+  </comic>
+</collection>
